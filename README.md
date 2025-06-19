@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/COolAlien35/COolAlien35/main/banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
+  <img src="https://coolalien35.github.io/banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
 </p>
 
 <!-- Typing animation -->
