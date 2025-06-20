@@ -65,8 +65,8 @@
 
 ### 🌐 Connect with Me
 
-- 📧 Email: `your.email@example.com`
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+- 📧 Email: `pandeypulkit2005@gmail.com`
+- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pulkit-pandey-b13076319/)) 
 - 💬 Always up for cool projects, hackathons, and coffee chats ☕👨‍🚀
 
 ---
