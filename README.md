@@ -1,75 +1,89 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://coolalien35.github.io/banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
+  <img src="assets/banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
 </p>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Hey+Earthlings!+I'm+Pulkit+Pandey+(aka+COolAlien35);🚀+AI+%7C+ML+%7C+DS+Explorer;🛸+Unity+Dev+%7C+C%2B%2B+%7C+Python+%7C+C%23+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&multiline=true&color=00F7FF&center=true&vCenter=true&width=700&height=120&lines=👽+Pulkit+Pandey+(aka+COolAlien35);🚀+AI+%7C+ML+%7C+Unity+Dev+%7C+Code+Wizard;🛸+Exploring+Tech+Across+Galaxies" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 👨‍🚀 About Me
+## 👾 Who Am I?
 
-- 🎓 B.Tech CSE @ **IIIT Bangalore**
-- 🧠 AI / ML / Data Science Enthusiast  
-- 🕹️ Unity Game Dev | Competitive Coder | Tech Tinkerer  
-- 👽 Also known across galaxies as **Pulkit Pandey** a.k.a. `COolAlien35`
-- 🌟 Love building, exploring, and collaborating on tech that matters
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity%20Dev-🕹️-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI/ML-🚀-ff69b4?style=for-the-badge" />
+</div>
+
+> 👨‍🚀 A tech explorer with a passion for **code + cosmos**  
+> 🤓 Competitive Coder • Game Dev • Backend Engineer  
+> 💡 Building projects that **solve** + **entertain**  
+> 🤝 Always open to **collabs, hacks, and alien summits**
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech I Command
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
 </p>
 
 ---
 
-### 👽 Alien Gallery
+## 🛸 Alien Gallery
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/h5yFfLhXnqMyk/giphy.gif" width="120" />
+  <img src="assets/alien_dance1.gif" width="100"/>
+  <img src="assets/alien_dance2.gif" width="100"/>
+  <img src="assets/alien_vibe.gif" width="100"/>
+  <img src="assets/spaceship.gif" width="100"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COolAlien35&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COolAlien35&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=COolAlien35&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Alien%20Activity%20Log" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COolAlien35&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=COolAlien35&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=COolAlien35&theme=tokyonight&column=7&margin-w=5&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🧠 Random Dev Quote
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=COolAlien35&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📡 Reach My Mothership
 
-- 📧 Email: `pandeypulkit2005@gmail.com`
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pulkit-pandey-b13076319/)) 
-- 💬 Always up for cool projects, hackathons, and coffee chats ☕👨‍🚀
+- 📧 `pandeypulkit2005@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pulkit-pandey-b13076319/)
+- 🧃 Up for collabs, interstellar chats, or just building cool tech? Ping me!
 
 ---
 
-> “Code like no one’s watching, explore like you’re from Mars.”  
-> — *Pulkit Pandey a.k.a COolAlien35* 👽🛸
+<h3 align="center" style="color:#00F7FF; font-family:Orbitron;">"Ship. Code. Repeat. 🚀"</h3>
+<h4 align="center">— Pulkit Pandey a.k.a. <code>COolAlien35</code> 👽</h4>
