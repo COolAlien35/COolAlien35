@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
+  <img src="banner.png" alt="Pulkit Pandey aka COolAlien35 Banner" />
 </p>
 
 <!-- Typing Animation -->
