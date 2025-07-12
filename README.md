@@ -11,13 +11,17 @@
 
 ---
 
-## 👾 Who Am I?
+<!-- ✨ Alien Dashboard Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20@%20IIITB-101010?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=2e2e2e&color=7d00ff" />
+  <img src="https://img.shields.io/badge/Unity%20Dev-🕹️-00bfff?style=for-the-badge&labelColor=111&color=00d1ff" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Explorer-🚀-ff1493?style=for-the-badge&labelColor=1f1f1f&color=ff69b4" />
+  <img src="https://img.shields.io/badge/Game%20Designer-👾-ffcc00?style=for-the-badge&labelColor=202020&color=fafa33" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity%20Dev-🕹️-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI/ML-🚀-ff69b4?style=for-the-badge" />
-</div>
+---
+
+## 👾 Who Am I?
 
 > 👨‍🚀 A tech explorer with a passion for **code + cosmos**  
 > 🤓 Competitive Coder • Game Dev • Backend Engineer  
