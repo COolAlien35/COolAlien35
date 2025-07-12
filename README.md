@@ -5,7 +5,8 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&multiline=true&color=00F7FF&center=true&vCenter=true&width=700&height=120&lines=👽+Pulkit+Pandey+(aka+COolAlien35);🚀+AI+%7C+ML+%7C+Unity+Dev+%7C+Code+Wizard;🛸+Exploring+Tech+Across+Galaxies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=120&lines=%F0%9F%91%8B+Greetings%2C+Earthlings!+I'm+COolAlien35;%F0%9F%9A%80+Fluent+in+Python%2C+C%2B%2B%2C+Unity%2C+and+Sarcasm;%F0%9F%91%BD+Crafting+AI+that+may+or+may+not+take+over;%F0%9F%8C%8E+Powered+by+Coffee+%2B+Star+Dust" />
+
 </h1>
 
 ---
